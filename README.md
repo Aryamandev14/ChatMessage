@@ -48,3 +48,19 @@ A feature-rich real-time chat application built using **React Native**, designed
    ```bash
    git clone https://github.com/yourusername/react-native-chat-app.git
    cd react-native-chat-app
+## 🔧 Project Structure
+
+
+  📦react-native-chat-app
+├── 📁assets
+├── 📁components
+├── 📁screens
+│   ├── LoginScreen.js
+│   ├── RegisterScreen.js
+│   ├── ChatScreen.js
+│   ├── FriendListScreen.js
+│   └── ...
+├── 📁utils
+├── App.js
+└── README.md
+
