@@ -16,6 +16,8 @@ A feature-rich real-time chat application built using **React Native**, designed
   - Send and receive **text messages**
   - Support for **emoji messages**
   - Send **photo messages** from gallery or camera
+  - Delete messages
+  - Messages with at what time sent
 
 - 📨 **Message Screen**
   - Organized conversation threads with friends
