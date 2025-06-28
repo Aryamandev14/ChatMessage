@@ -39,9 +39,6 @@ A feature-rich real-time chat application built using **React Native**, designed
 - **Media Handling:** React Native Image Picker, Expo Image Picker, etc.
 - **Emoji Support:** react-native-emoji / custom emoji picker
 
-## 📸 Screenshots
-
-*(Add screenshots of Login Screen, Register, Friend List, Chat Screen with emojis and images here)*
 
 ## 🔧 Installation
 
