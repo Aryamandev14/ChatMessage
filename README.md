@@ -63,3 +63,7 @@ A feature-rich real-time chat application built using **React Native**, designed
 ├── App.js
 └── README.md
 
+## 🙋‍♂️ Author
+Aryaman Dev Kumar
+B.Tech CSE, NIT Delhi
+Feel free to reach out for suggestions or collaborations!
